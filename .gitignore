@@ -1,0 +1,65 @@
+############################################################
+#  Node / JavaScript
+############################################################
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# package manager caches
+.pnpm-store/
+.cache/
+dist/
+build/
+
+############################################################
+#  Next.js
+############################################################
+.next/                # build + webpack cache
+.vercel/              # Vercel deployment cache
+
+# static export
+out/
+
+# next telemetry
+.next/telemetry/
+
+############################################################
+#  Environment & secrets
+############################################################
+.env*
+!.env.example         # keep template
+
+############################################################
+#  Testing / coverage
+############################################################
+coverage/
+jest-html-reporters-*.html
+*.lcov
+
+############################################################
+#  OS / Editor cruft
+############################################################
+.DS_Store
+Thumbs.db
+
+# macOS / Linux trash
+.Trash-*
+
+# VS Code
+.vscode/
+.history/
+
+# JetBrains IDEs
+.idea/
+
+# Sublime
+*.sublime-workspace
+*.sublime-project
+
+############################################################
+#  Optional: log & debug
+############################################################
+*.log
+

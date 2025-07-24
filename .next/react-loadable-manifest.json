@@ -1,0 +1,42 @@
+{
+  "node_modules\\jspdf\\dist\\jspdf.es.min.js -> canvg": {
+    "id": 76582,
+    "files": [
+      "static/chunks/4163ae0c.7018b5720c221e63.js",
+      "static/chunks/414.0b38ff1282a70191.js"
+    ]
+  },
+  "node_modules\\jspdf\\dist\\jspdf.es.min.js -> dompurify": {
+    "id": 12227,
+    "files": [
+      "static/chunks/227.37d4276609fafb06.js"
+    ]
+  },
+  "node_modules\\jspdf\\dist\\jspdf.es.min.js -> html2canvas": {
+    "id": 43028,
+    "files": []
+  },
+  "node_modules\\next\\dist\\client\\index.js -> ../pages/_app": {
+    "id": 57,
+    "files": [
+      "static/chunks/57.f6e61451d712b805.js"
+    ]
+  },
+  "node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
+    "id": 84100,
+    "files": [
+      "static/chunks/100.cfb86634ef3dcfc0.js"
+    ]
+  },
+  "pages\\app.js -> ../components/NotesApp": {
+    "id": 97713,
+    "files": [
+      "static/chunks/5a3e129d.c81ed6dc11745da8.js",
+      "static/chunks/643144ee.6fa00428f821967f.js",
+      "static/chunks/1d2671aa.cb093f616147cb9e.js",
+      "static/chunks/826-d3c117705082d6a8.js",
+      "static/chunks/246.e50bb4cf370a9450.js",
+      "static/chunks/713.8714371f136b972f.js"
+    ]
+  }
+}
