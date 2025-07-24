@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "next start",
     "predeploy": "next build && next export",
-    "deploy": "gh-pages -d out"
+    "deploy": "npm run predeploy && touch ./out/.nojekyll && gh-pages -d out --dotfiles"
   },
   "dependencies": {
     "@dnd-kit/core": "^6.3.1",
